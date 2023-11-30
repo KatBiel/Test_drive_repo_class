@@ -34,3 +34,4 @@ class ArtistRepository:
         self._connection.execute(
             'DELETE FROM artists WHERE id = %s', [artist_id])
         return None
+

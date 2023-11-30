@@ -17,8 +17,11 @@ artists = artist_repository.all()
 for artist in artists:
     print(artist)
 
+print(artist_repository.find(1))
 
 album_repository = AlbumRepository(connection)
 
 for album in album_repository.all():
     print(album)
+
+print(album_repository.find(1))
