@@ -1,5 +1,5 @@
 import pytest
-from lib.database_music_library import DatabaseConnection
+from lib.database_connection import DatabaseConnection
 
 # This is a Pytest fixture.
 # It creates an object that we can use in our tests.
