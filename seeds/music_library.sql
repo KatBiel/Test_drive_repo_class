@@ -43,5 +43,3 @@ INSERT INTO albums (title, release_year, artist_id) VALUES ('Baltimore', 1978, 4
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Here Comes the Sun', 1971, 4);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Fodder on My Wings', 1982, 4);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Ring Ring', 1973, 2);
-
-
